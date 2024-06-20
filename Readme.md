@@ -98,27 +98,27 @@ python 3_Median_Filter
 
 # Results
 ## Before
-![Input](Input\body.png)
+![Input]([Input\body.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/body.png))
 ## After
 ![output](Output/result_Body.png)
 ## Before
-![Input](Input\elec.png)
+![Input]([Input\elec.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/elec.png))
 ## After
 ![output](Output/result_Elec.png)
 ## Before
-![Input](Input\circle.png)
+![Input]([Input\circle.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/circle.png))
 ## After
 ![output](Output/result_Circle.png)
 ## Before
-![Input](Input\party.png)
+![Input]([Input\party.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/party.png))
 ## After
 ![output](Output/result_Party.png)
 ## Before
-![Input](Input\woman.png)
+![Input]([Input\woman.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/woman.png))
 ## After
 ![output](Output/result_Woman.png)
 ## Before
-![Input](Input\things.png)
+![Input]([Input\things.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/things.png))
 ## After
 ![output](Output/result_Things.png)
 
