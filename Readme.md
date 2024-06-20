@@ -48,7 +48,7 @@ python 1_Convolution_2D.ipynb
 
 # Results
  ## Edge detection filter
-![output](Output\https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Edges_Sheep.jpeg)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Edges_Sheep.jpeg)
 ## Sharpening filter
 ![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Sharped_Sheep.jpeg)
 ## Emboss filter
