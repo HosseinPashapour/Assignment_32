@@ -48,15 +48,15 @@ python 1_Convolution_2D.ipynb
 
 # Results
  ## Edge detection filter
-![output](Output\Edges_Sheep.jpeg)
+![output](Output\https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Edges_Sheep.jpeg)
 ## Sharpening filter
-![output](Output\Sharped_Sheep.jpeg)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Sharped_Sheep.jpeg)
 ## Emboss filter
-![output](Output\Embossed_Sheep.jpeg)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Embossed_Sheep.jpeg)
 ## Identity filter
-![output](Output\Identity_Sheep.jpeg)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Identity_Sheep.jpeg)
 ## Edge_image_Sheep
-![output](Output/Edge_image_Sheep.jpeg)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Edge_image_Sheep.jpeg)
 
 ------------------------------------------------------
 
@@ -77,7 +77,7 @@ python 2_Average_Filter.ipynb
 
 # Results
 
-![output](Output\Magic.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Magic.png)
 
 -----------------------------------------
 # 3.Median_Filter
@@ -100,27 +100,27 @@ python 3_Median_Filter
 ## Before
 ![Input]([Input\body.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/body.png))
 ## After
-![output](Output/result_Body.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/result_Body.png)
 ## Before
 ![Input]([Input\elec.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/elec.png))
 ## After
-![output](Output/result_Elec.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/result_Elec.png)
 ## Before
 ![Input]([Input\circle.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/circle.png))
 ## After
-![output](Output/result_Circle.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/result_Circle.png)
 ## Before
 ![Input]([Input\party.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/party.png))
 ## After
-![output](Output/result_Party.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/result_Party.png)
 ## Before
 ![Input]([Input\woman.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/woman.png))
 ## After
-![output](Output/result_Woman.png)
+![output]([Output/result_Woman.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/result_Woman.png))
 ## Before
 ![Input]([Input\things.png](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/things.png))
 ## After
-![output](Output/result_Things.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/result_Things.png)
 
 -----------------------------------------
 # 4.Histogram
@@ -144,8 +144,8 @@ python 4_Histogram_Equalize
 
 
 ## Results
-![output](Output\Equalize1.png)
-![output](Output\Equalize2.png)
-![output](Output\Equalize_clahe.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Equalize1.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Equalize2.png)
+![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Equalize_clahe.png)
 
 -----------------------------------------
