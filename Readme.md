@@ -43,7 +43,7 @@ python 1_Convolution_2D.ipynb
 ```
 ## Input
 
-![input](Input\Sheep.jpeg)
+![input](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/Sheep.jpeg)
 
 
 # Results
