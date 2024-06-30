@@ -34,13 +34,6 @@ Run following command:
 pip install -r requirments.txt
 ```
 
-
-## How to Run
-Execute this command in terminal:
-
-```
-python 1_Convolution_2D.ipynb
-```
 ## Input
 
 ![input](https://github.com/HosseinPashapour/Assignment_32/blob/main/Input/Sheep.jpeg)
@@ -69,12 +62,6 @@ Run following command:
 pip install -r requirments.txt
 ```
 
-## How to Run
-Execute this command in terminal :
-```
-python 2_Average_Filter.ipynb
-```
-
 # Results
 
 ![output](https://github.com/HosseinPashapour/Assignment_32/blob/main/Output/Magic.png)
@@ -93,7 +80,7 @@ pip install -r requirments.txt
 ## How to Run
 Execute this command in terminal :
 ```
-python 3_Median_Filter
+python 3_Median_Filter.py
 ```
 
 # Results
@@ -139,7 +126,7 @@ pip install -r requirments.txt
 ## How to Run
 Execute this command in terminal :
 ```
-python 4_Histogram_Equalize
+python 4_Histogram_Equalize.py
 ```
 
 
